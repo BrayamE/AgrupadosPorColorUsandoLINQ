@@ -17,7 +17,7 @@ class Program
         animales.Add(new Animal() { Nombre = "Sapo", Color = "Verde" });
         animales.Add(new Animal() { Nombre = "Camaleon", Color = "Verde" });
         animales.Add(new Animal() { Nombre = "Gallina", Color = "Blanco" });
-        // Retorna los datos de la colleción Animales agrupada por color
+        // Retorna los datos de la colección Animales agrupada por color
         Console.WriteLine("=========================");
         Console.WriteLine("BRAYAM EDWIN QUISPE APAZA");
         Console.WriteLine("=========================");
